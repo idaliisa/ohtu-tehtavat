@@ -1,1 +1,10 @@
 .DS_Store
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+/viikko4/Verkkokauppa/.nb-gradle/
+/viikko4/MaksukorttiMockito/.nb-gradle/
+/viikko4/MockitoDemo/.nb-gradle/
